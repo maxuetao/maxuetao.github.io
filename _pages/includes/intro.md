@@ -4,5 +4,4 @@ My research interest mainly focus on computer vision and deep learning, especial
   
 I'm very glad to communicate and cooperate with like-minded people, please feel free to email me at [sakuram1997cv@gmail.com](mailto:sakuram1997cv@gmail.com)
 
-I have published several papers <a href='https://scholar.google.com/citations?user=ZFwXqAAAAAJ'><img src="https://img.shields.io/endpoint?logo=Google%20Scholar&url=https%3A%2F%2Fcdn.jsdelivr.net%2Fgh%2FRayeRen%2Frayeren.github.io@google-scholar-stats%2Fgs_data_shieldsio.json&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>.
 
