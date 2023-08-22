@@ -8,7 +8,7 @@
 # Site Settings
 title                    : "Xuetao Ma (马雪涛)"
 description              : "Ph.D student at the School of Artificial Intelligence, Beijing Normal University (BNU). Focusing on computer vision and deep learning."
-repository               : "https://maxuetao.github.io/"
+repository               : "maxuetao/maxuetao.github.io"
 google_scholar_stats_use_cdn : true
 
 # google analytics
@@ -20,6 +20,7 @@ google_site_verification : omqdCCOa7rAYon1ghW0waktwPbNi4RSazWM17izxRDw
 # baidu_site_verification  : code-ZxFK3f4pfb
 
 # Site Author
+author:
   name             : "Xuetao Ma (马雪涛)"
   avatar           : "images/android-chrome-512x512.png"
   bio              : "Beijing Normal University"
@@ -28,7 +29,7 @@ google_site_verification : omqdCCOa7rAYon1ghW0waktwPbNi4RSazWM17izxRDw
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=-ZFwXqAAAAAJ"
   email            : "sakuram1997cv@gmail.com"
-  researchgate     :  # e.g., "https://www.researchgate.net/profile/yourprofile"
+  researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
   codepen          :
@@ -40,10 +41,10 @@ google_site_verification : omqdCCOa7rAYon1ghW0waktwPbNi4RSazWM17izxRDw
   google_plus      :
   keybase          :
   instagram        :
-  impactstory      : # e.g., "https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
+  impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         : # e.g., "linkedin username"
-  dblp             : # e.g., "https://dblp.org/pid/xx/xxxx.html"
+  # linkedin         : "rayeren"
+  # dblp             : "https://dblp.org/pid/75/6568-6.html"
   orcid            : "https://orcid.org/0000-0003-1182-709X"
   pinterest        :
   soundcloud       :
@@ -56,7 +57,6 @@ google_site_verification : omqdCCOa7rAYon1ghW0waktwPbNi4RSazWM17izxRDw
   xing             :
   youtube          :
   wikipedia        :
-
 
 
 # Reading Files
