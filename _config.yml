@@ -6,7 +6,7 @@
 # `jekyll serve`. If you change this file, please restart the server process.
 
 # Site Settings
-title                    : "Xuetao Ma (马雪涛)"
+title                    : Xuetao Ma (马雪涛)"
 description              : "Ph.D student at the School of Artificial Intelligence, Beijing Normal University (BNU). Focusing on computer vision and deep learning."
 repository               : "https://maxuetao.github.io/"
 google_scholar_stats_use_cdn : true
