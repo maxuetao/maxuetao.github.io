@@ -6,29 +6,30 @@
 # `jekyll serve`. If you change this file, please restart the server process.
 
 # Site Settings
-title                    : Xuetao Ma (马雪涛)"
-description              : "Ph.D student at the School of Artificial Intelligence, Beijing Normal University (BNU). Focusing on computer vision and deep learning."
-repository               : "https://maxuetao.github.io/"
+title                    : "Yi Ren (任意)"
+description              : "Research scientist in Bytedance AI Lab, Speech & Audio Team. Focusing on speech, NLP and music."
+repository               : "rayeren/rayeren.github.io"
 google_scholar_stats_use_cdn : true
 
 # google analytics
-# google_analytics_id      : G-SWFCX99KQZ
+google_analytics_id      : G-SWFCX99KQZ
 
 # SEO Related
-google_site_verification : omqdCCOa7rAYon1ghW0waktwPbNi4RSazWM17izxRDw
-# bing_site_verification   : B5AA590E7B9C03956A6F7DEC0F776211
-# baidu_site_verification  : code-ZxFK3f4pfb
+google_site_verification : b_BbOIt7d513ZXYDw-YRMicO6O5tthYiouqWDdWjGTU
+bing_site_verification   : B5AA590E7B9C03956A6F7DEC0F776211
+baidu_site_verification  : code-ZxFK3f4pfb
 
 # Site Author
-  name             : "Xuetao Ma (马雪涛)"
-  avatar           : "images/android-chrome-512x512.png"
-  bio              : "Beijing Normal University"
-  location         : "Beijing, China"
+author:
+  name             : "Yi Ren (任意)"
+  avatar           : "images/ry_profile.jpeg"
+  bio              : "Bytedance AI Lab"
+  location         : "Singapore"
   employer         :
   pubmed           : 
-  googlescholar    : "https://scholar.google.com/citations?user=-ZFwXqAAAAAJ"
-  email            : "sakuram1997cv@gmail.com"
-  researchgate     :  # e.g., "https://www.researchgate.net/profile/yourprofile"
+  googlescholar    : "https://scholar.google.com/citations?user=4FA6C0AAAAAJ"
+  email            : "rayeren613@gmail.com"
+  researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
   codepen          :
@@ -36,15 +37,15 @@ google_site_verification : omqdCCOa7rAYon1ghW0waktwPbNi4RSazWM17izxRDw
   flickr           :
   facebook         :
   foursquare       :
-  github           : "maxuetao"
+  github           : "RayeRen"
   google_plus      :
   keybase          :
   instagram        :
-  impactstory      : # e.g., "https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
+  impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         : # e.g., "linkedin username"
-  dblp             : # e.g., "https://dblp.org/pid/xx/xxxx.html"
-  orcid            : "https://orcid.org/0000-0003-1182-709X"
+  linkedin         : "rayeren"
+  dblp             : "https://dblp.org/pid/75/6568-6.html"
+  orcid            : "https://orcid.org/0000-0002-9160-3848"
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
@@ -56,7 +57,6 @@ google_site_verification : omqdCCOa7rAYon1ghW0waktwPbNi4RSazWM17izxRDw
   xing             :
   youtube          :
   wikipedia        :
-
 
 
 # Reading Files
