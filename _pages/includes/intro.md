@@ -5,6 +5,6 @@ I am currently a Ph.D student at the School of Artificial Intelligence, Beijing 
 
 My research interest mainly focus on computer vision and deep learning, especially face anti-spoofing and medical image processing.
   
-I'm very glad to communicate and cooperate with like-minded people, please feel free to email me at [maxuetao.bnu@gmail.com](mailto:maxuetao.bnu@gmail.com)
+I'm very glad to communicate and cooperate with like-minded people, please feel free to email me at [maxuetao@mail.bnu.edu.cn](mailto:maxuetao@mail.bnu.edu.cn)
 
 
