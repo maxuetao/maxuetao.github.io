@@ -1,6 +1,6 @@
 # 🔥 News
-- *2022.08*: 🎉🎉 One papers was accepted by PRCV 2023.
-- *2022.05*: 🎉🎉 I have been admitted to the School of Artificial Intelligence at Beijing Normal University, and will begin my Ph.D studies under the supervision of Professor Hua Huang in September 2023.
+- *2023.08*: 🎉🎉 One papers was accepted by PRCV 2023.
+- *2023.05*: 🎉🎉 I have been admitted to the School of Artificial Intelligence at Beijing Normal University, and will begin my Ph.D studies under the supervision of Professor Hua Huang in September 2023.
 
 
 <!-- - *2023.05*: 🎉 Five papers are accepted by ACL 2023
