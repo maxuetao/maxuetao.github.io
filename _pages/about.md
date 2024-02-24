@@ -22,6 +22,8 @@ The template for this homepage is made by [Yi Ren](https://rayeren.github.io/), 
 
 {% include_relative includes/others.md %}
 
+---
 <center>
   <script type="text/javascript" src="//rf.revolvermaps.com/0/0/1.js?i=54fnxcytkr6&amp;s=300&amp;m=0&amp;v=true&amp;r=false&amp;b=000000&amp;n=false&amp;c=ff0000" async="async"></script>
 </center>
+---
