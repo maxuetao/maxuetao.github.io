@@ -14,14 +14,13 @@ Jiazi Ouyang, **Xuetao Ma**, Yongfei Wu, et. \\
 
 ---
 ## |*Conference*|
-- ``PRCV 2023`` ``CCF-C`` \\
-<span style="color: #1772d0;">KDFAS: Multi-Stage Knowledge Distillation Vision Transformer for Face Anti-Spoofing</span>\\
+- <span style="color: #1772d0;">KDFAS: Multi-Stage Knowledge Distillation Vision Transformer for Face Anti-Spoofing</span>\\
 Jun Zhang, Yunfei Zhang, Feixue Shao, **Xuetao Ma**, Daoxiang Zhou.\\
 *Chinese Conference on Pattern Recognition and Computer Vision*, PRCV 2023 ``CCF-C``
 
 ---
 
-- ``PRCV 2022`` ``CCF-C`` <span style="color: #1772d0;">Exploring masked image modeling for face anti-spoofing</span>\\
+- <span style="color: #1772d0;">Exploring masked image modeling for face anti-spoofing</span>\\
  **Xuetao Ma**, Jun Zhang, Yunfei Zhang, Daoxiang Zhou.\\
  *Chinese Conference on Pattern Recognition and Computer Vision*, PRCV 2022 ``CCF-C``
 
