@@ -3,7 +3,7 @@
 ## |*Journal*|
 
 - ```SCI 2区``` ```CCF-C``` <span style="color: #1772d0;">ACAN: A Plug-and-Play Adaptive Center-Aligned Network for Unsupervised Domain Adaptation</span>\\
-Yunfei Zhang, Jun Zhang, Tonglu Li, Feixue Shao, **Xuetao Ma**, Yongfei Wu, Shu Feng, Daoxiang Zhou.
+        Yunfei Zhang, Jun Zhang, Tonglu Li, Feixue Shao, **Xuetao Ma**, Yongfei Wu, Shu Feng, Daoxiang Zhou.
 
 - ``SCI 2区`` <span style="color: #1772d0;">Automatic No-Reference kidney tissue whole slide image quality assessment based on composite fusion models</span>, Jiazi Ouyang, **Xuetao Ma**, Yongfei Wu, et.
 
