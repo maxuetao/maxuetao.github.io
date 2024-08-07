@@ -1,7 +1,7 @@
 
 # 📝 Publications 
 <!-- ## 🎙 Speech Synthesis -->
-- ``EAAI`` ``CCF-C`` ``Top``[ACAN: A Plug-and-Play Adaptive Center-Aligned Network for Unsupervised Domain Adaptation](), Yunfei Zhang, Jun Zhang, Tonglu Li, Feixue Shao, ***Xuetao Ma***, Yongfei Wu, Shu Feng, Daoxiang Zhou.
+- ``EAAI`` ``CCF-C`` [ACAN: A Plug-and-Play Adaptive Center-Aligned Network for Unsupervised Domain Adaptation](), Yunfei Zhang, Jun Zhang, Tonglu Li, Feixue Shao, ***Xuetao Ma***, Yongfei Wu, Shu Feng, Daoxiang Zhou.
 
 - ``PRCV 2023`` ``CCF-C`` [KDFAS: Multi-Stage Knowledge Distillation Vision Transformer for Face Anti-Spoofing](), Jun Zhang, Yunfei Zhang, Feixue Shao, ***Xuetao Ma***, Daoxiang Zhou.
 
