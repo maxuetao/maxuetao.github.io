@@ -4,8 +4,8 @@
 <!-- paper -->
 <div class='paper-box'>
   <div class='paper-box-text' markdown="1">
-   <span style="color: #1772d0;", href="">ACAN: A Plug-and-Play Adaptive Center-Aligned Network for Unsupervised Domain Adaptation</span> \\
-    Yunfei Zhang, Jun Zhang, Tonglu Li, Feixue Shao, **Xuetao Ma**, Yongfei Wu, Shu Feng, Daoxiang Zhou.
+   <span style="color: #1772d0;">ACAN: A Plug-and-Play Adaptive Center-Aligned Network for Unsupervised Domain Adaptation</span> \\
+    **Yi Ren**, Yangjun Ruan, Xu Tan, Tao Qin, Sheng Zhao, Zhou Zhao, Tie-Yan Liu
     [**Project**](https://speechresearch.github.io/fastspeech/) <strong><span class='show_paper_citations' data='4FA6C0AAAAAJ:qjMakFHDy7sC'></span></strong>
     - FastSpeech is the first fully parallel end-to-end speech synthesis model.
     <!-- - **Academic Impact**: This work is included by many famous speech synthesis open-source projects, such as [ESPNet ![](https://img.shields.io/github/stars/espnet/espnet?style=social)](https://github.com/espnet/espnet). Our work are promoted by more than 20 media and forums, such as [机器之心](https://mp.weixin.qq.com/s/UkFadiUBy-Ymn-zhJ95JcQ)、[InfoQ](https://www.infoq.cn/article/tvy7hnin8bjvlm6g0myu).
