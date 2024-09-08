@@ -3,9 +3,14 @@
 ## |*Journal*|
 
 ---
+- <span style="color: #1772d0;">Efficient Face Anti-Spoofing via Head-aware Transformer based Knowledge Distillation with 5MB model parameters</span>\\
+Jun Zhang, Yunfei Zhang, Feixue Shao, **Xuetao Ma**, Shu Feng, Yongfei Wu, Daoxiang Zhou.\\
+*Engineering Applications of Artificial Intelligence*, 2024 ```SCI 1区``` ```Top```
+
+---
 - <span style="color: #1772d0;">ACAN: A Plug-and-Play Adaptive Center-Aligned Network for Unsupervised Domain Adaptation</span>\\
 Yunfei Zhang, Jun Zhang, Tonglu Li, Feixue Shao, **Xuetao Ma**, Yongfei Wu, Shu Feng, Daoxiang Zhou.\\
-*Engineering Applications of Artificial Intelligence*, 2024 ```SCI 2区``` ```CCF-C```
+*Engineering Applications of Artificial Intelligence*, 2024 ```SCI 2区```  ``Top``` ```CCF-C```
 
 ---
 - <span style="color: #1772d0;">Automatic No-Reference kidney tissue whole slide image quality assessment based on composite fusion models</span>\\
