@@ -4,8 +4,8 @@
 
 ---
 - <span style="color: #1772d0;">GLMKD: Joint global and local mutual knowledge distillation for weakly supervised lesion segmentation in histopathology images</span>\\
-Hangbei Cheng, Xueyu Liu, Jun Zhang, Xiaorong Dong, **Xuetao Ma**, Yansong Zhang, Hao Meng, Xing Chen, Guanghui Yue, Yidi Li, Yongfei Wu\\
-*Expert Systems with Applications*, 2024 ```SCI 1区``` ```Top``` ```CCF-C```
+Hangbei Cheng, Xueyu Liu, Jun Zhang, Xiaorong Dong, **Xuetao Ma**, Yansong Zhang, Hao Meng, Xing Chen, Guanghui Yue, Yidi Li, Yongfei Wu.\\
+*Expert Systems with Applications*, 2025 ```SCI 1区``` ```Top``` ```CCF-C```
 
 ---
 - <span style="color: #1772d0;">Efficient Face Anti-Spoofing via Head-aware Transformer based Knowledge Distillation with 5MB model parameters</span>\\
