@@ -1,5 +1,5 @@
 # 🔥 News
-- *2025.05*: 🎉 One paper was accepted by findings of ACL!
+- *2025.05*: 🎉 One paper was accepted by ACL!
 - *2025.03*: 🎉 One paper was accepted by ESWA. Congrats to Hangbei!
 - *2025.02*: I join [TAL](https://www.100tal.com/) <img src='./images/tal.png' style='width: 6em;'> and started an LLMs internship!
 - *2024.09*: 🎉 One paper was accepted by ASOC. Congrats to Jun Zhang!
