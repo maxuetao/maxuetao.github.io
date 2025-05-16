@@ -1,7 +1,7 @@
 
 # 📝 Publications 
 
-- [Problem-Solving Logic Guided Curriculum In-Context Learning for LLMs Complex Reasoning](), **Xuetao Ma**, Wenbin Jiang, Hua Huang. *Annual Meeting of the Association for Computational Linguistics*, ACL 2025 findings
+- [Problem-Solving Logic Guided Curriculum In-Context Learning for LLMs Complex Reasoning](), **Xuetao Ma**, Wenbin Jiang, Hua Huang. *Annual Meeting of the Association for Computational Linguistics*, **ACL 2025 findings**
 
 - [GLMKD: Joint global and local mutual knowledge distillation for weakly supervised lesion segmentation in histopathology images](), Hangbei Cheng, Xueyu Liu, Jun Zhang, Xiaorong Dong, **Xuetao Ma**, et. *Expert Systems with Applications*, 2025 ```SCI 1区``` ```Top``` ```CCF-C```
 
@@ -11,6 +11,6 @@
 
 - [Automatic No-Reference kidney tissue whole slide image quality assessment based on composite fusion models](), Jiazi Ouyang, **Xuetao Ma**, Yongfei Wu, et. *Biomedical Signal Processing and Control*, 2023 ```SCI 2区```
 
-- [KDFAS: Multi-Stage Knowledge Distillation Vision Transformer for Face Anti-Spoofing](), Jun Zhang, Yunfei Zhang, Feixue Shao, **Xuetao Ma**, Daoxiang Zhou. *Chinese Conference on Pattern Recognition and Computer Vision*, PRCV 2023 ``CCF-C``
+- [KDFAS: Multi-Stage Knowledge Distillation Vision Transformer for Face Anti-Spoofing](), Jun Zhang, Yunfei Zhang, Feixue Shao, **Xuetao Ma**, Daoxiang Zhou. *Chinese Conference on Pattern Recognition and Computer Vision*, **PRCV 2023** ``CCF-C``
 
-- [Exploring masked image modeling for face anti-spoofing](), **Xuetao Ma**, Jun Zhang, Yunfei Zhang, Daoxiang Zhou. *Chinese Conference on Pattern Recognition and Computer Vision*, PRCV 2022 ``CCF-C``
+- [Exploring masked image modeling for face anti-spoofing](), **Xuetao Ma**, Jun Zhang, Yunfei Zhang, Daoxiang Zhou. *Chinese Conference on Pattern Recognition and Computer Vision*, **PRCV 2022** ``CCF-C``
