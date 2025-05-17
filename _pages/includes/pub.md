@@ -14,8 +14,6 @@
 </div>
 </div>
 
-- **Xuetao Ma**, Wenbin Jiang, Hua Huang. [Problem-Solving Logic Guided Curriculum In-Context Learning for LLMs Complex Reasoning](), *Annual Meeting of the Association for Computational Linguistics (ACL)*, 2025.
-
 - Hangbei Cheng, Xueyu Liu, Jun Zhang, Xiaorong Dong, **Xuetao Ma**, et. [GLMKD: Joint global and local mutual knowledge distillation for weakly supervised lesion segmentation in histopathology images](), *Expert Systems with Applications*, 2025. ```SCI 1区``` ```Top``` ```CCF-C```
 
 - Jun Zhang, Yunfei Zhang, Feixue Shao, **Xuetao Ma**, et. [Efficient Face Anti-Spoofing via Head-aware Transformer based Knowledge Distillation with 5MB model parameters](), *Applied Soft Computing*, 2024. ```SCI 1区``` ```Top```
