@@ -13,7 +13,9 @@
 - We propose a problem-solving logic guided curriculum in-context learning strategy that selects and orders examples by analyzing the problem-solving logic, effectively enhancing the reasoning performance and efficiency of LLMs.
 </div>
 </div>
+
 <span class="conference-tag">NeurIPS 2024</span>
+
 - Hangbei Cheng, Xueyu Liu, Jun Zhang, Xiaorong Dong, **Xuetao Ma**, et. [GLMKD: Joint global and local mutual knowledge distillation for weakly supervised lesion segmentation in histopathology images](), *Expert Systems with Applications*, 2025. ```SCI 1区``` ```Top``` ```CCF-C```
 
 - Jun Zhang, Yunfei Zhang, Feixue Shao, **Xuetao Ma**, et. [Efficient Face Anti-Spoofing via Head-aware Transformer based Knowledge Distillation with 5MB model parameters](), *Applied Soft Computing*, 2024. ```SCI 1区``` ```Top```
@@ -25,4 +27,5 @@
 - Jun Zhang, Yunfei Zhang, Feixue Shao, **Xuetao Ma**, Daoxiang Zhou. [KDFAS: Multi-Stage Knowledge Distillation Vision Transformer for Face Anti-Spoofing](), *Chinese Conference on Pattern Recognition and Computer Vision (PRCV)*, 2023. ``CCF-C``
 
 - **Xuetao Ma**, Jun Zhang, Yunfei Zhang, Daoxiang Zhou. [Exploring masked image modeling for face anti-spoofing](), *Chinese Conference on Pattern Recognition and Computer Vision (PRCV)*, 2022. ``CCF-C``
+
 
