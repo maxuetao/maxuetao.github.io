@@ -1,6 +1,6 @@
 ## 🔥 News
 
-<div style="max-height:200px; overflow-y:auto; padding-right:8px;">
+<div class="news-box" markdown="1" style="max-height:200px; overflow-y:auto; padding-right:8px; border:1px solid #ddd; border-radius:8px; padding:10px; scrollbar-width:thin; scrollbar-color:#aaa #f1f1f1;">
 
 - **2025.05**: 🎉 One paper was accepted by ACL!
 - **2025.03**: 🎉 One paper was accepted by ESWA. Congrats to Hangbei!
