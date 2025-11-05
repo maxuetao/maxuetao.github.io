@@ -4,7 +4,7 @@ import random
 import traceback
 import json
 from datetime import datetime
-from scholarly import scholarly, ProxyGenerator
+from scholarly import scholarly
 from fake_useragent import UserAgent
 import signal
 import sys
@@ -25,16 +25,7 @@ if not scholar_id:
     sys.exit(1)
 print(f"🎯 目标 Scholar ID: {scholar_id}", flush=True)
 
-# === 初始化代理和 UA ===
-pg = ProxyGenerator()
-try:
-    # scholarly==1.7.11 (PyPI) 实际仍旧使用旧接口
-    pg.FreeProxies()  
-    scholarly.use_proxy(pg)
-    print("🌐 已启用免费代理池", flush=True)
-except Exception as e:
-    print("⚠️ 初始化免费代理失败，将直接访问（可能受限）:", e, flush=True)
-
+# === 随机 UA 设置 ===
 ua = UserAgent()
 ua_list = [
     ua.random,
@@ -42,12 +33,14 @@ ua_list = [
     "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7)",
     "Mozilla/5.0 (X11; Linux x86_64)"
 ]
+chosen_ua = random.choice(ua_list)
+os.environ["USER_AGENT"] = chosen_ua
+print(f"🧭 使用随机 User-Agent: {chosen_ua}", flush=True)
 
-# === 重试逻辑 ===
+# === 抓取逻辑，带重试 ===
 author = None
 for attempt in range(3):
     try:
-        scholarly.set_user_agent(random.choice(ua_list))
         wait_time = random.uniform(5, 20)
         print(f"🕐 第 {attempt+1} 次尝试，等待 {wait_time:.1f} 秒...", flush=True)
         time.sleep(wait_time)
