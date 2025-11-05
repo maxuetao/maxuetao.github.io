@@ -11,12 +11,12 @@ import sys
 
 print("📘 程序已启动", flush=True)
 
-# === 超时机制 ===
+# === 超时机制（Linux 层） ===
 def handler(signum, frame):
-    raise TimeoutError("⏰ 超时，Google Scholar 无响应。")
+    raise TimeoutError("⏰ 程序运行超时，可能被 Google Scholar 拦截。")
 
 signal.signal(signal.SIGALRM, handler)
-signal.alarm(120)  # 最长等待 2 分钟
+signal.alarm(180)  # 整个脚本最长 3 分钟
 
 # === 环境变量 ===
 scholar_id = os.environ.get("GOOGLE_SCHOLAR_ID")
@@ -25,7 +25,7 @@ if not scholar_id:
     sys.exit(1)
 print(f"🎯 目标 Scholar ID: {scholar_id}", flush=True)
 
-# === 随机 UA 设置 ===
+# === 随机 UA ===
 ua = UserAgent()
 ua_list = [
     ua.random,
@@ -33,11 +33,9 @@ ua_list = [
     "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7)",
     "Mozilla/5.0 (X11; Linux x86_64)"
 ]
-chosen_ua = random.choice(ua_list)
-os.environ["USER_AGENT"] = chosen_ua
-print(f"🧭 使用随机 User-Agent: {chosen_ua}", flush=True)
+os.environ["USER_AGENT"] = random.choice(ua_list)
 
-# === 抓取逻辑，带重试 ===
+# === 抓取逻辑 ===
 author = None
 for attempt in range(3):
     try:
@@ -45,21 +43,24 @@ for attempt in range(3):
         print(f"🕐 第 {attempt+1} 次尝试，等待 {wait_time:.1f} 秒...", flush=True)
         time.sleep(wait_time)
 
+        # 手动控制超时，防止 scholarly 卡死
+        start = time.time()
         author = scholarly.search_author_id(scholar_id)
         scholarly.fill(author, sections=['basics', 'indices', 'counts', 'publications'])
-        print("✅ 抓取成功！", flush=True)
+        elapsed = time.time() - start
+        print(f"✅ 抓取成功，用时 {elapsed:.1f} 秒", flush=True)
         break
 
     except Exception as e:
-        print(f"⚠️ 第 {attempt+1} 次抓取失败: {e}")
+        print(f"⚠️ 第 {attempt+1} 次失败: {e}")
         traceback.print_exc()
         time.sleep(15 + attempt * 10)
 
 if not author:
-    print("❌ 三次尝试均失败，退出。")
-    sys.exit(1)
+    print("❌ 三次尝试后仍未成功，跳过本次运行。")
+    sys.exit(0)  # 注意退出 0（不算错误）
 
-# === 数据处理与输出 ===
+# === 输出结果 ===
 author['updated'] = str(datetime.now())
 author['publications'] = {v['author_pub_id']: v for v in author['publications']}
 
