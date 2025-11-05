@@ -10,7 +10,6 @@ import signal
 import sys
 
 print("📘 程序已启动", flush=True)
-
 # === 超时机制 ===
 def handler(signum, frame):
     raise TimeoutError("⏰ 超时，Google Scholar 无响应。")
