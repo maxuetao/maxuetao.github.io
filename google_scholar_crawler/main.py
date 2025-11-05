@@ -27,7 +27,7 @@ print(f"🎯 目标 Scholar ID: {scholar_id}", flush=True)
 
 # === 初始化代理和 UA ===
 pg = ProxyGenerator()
-pg.FreeProxies()  # 使用免费代理池
+pg.FreeProxies(repeat=1) # 使用免费代理池
 scholarly.use_proxy(pg)
 
 ua = UserAgent()
