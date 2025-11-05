@@ -27,8 +27,13 @@ print(f"🎯 目标 Scholar ID: {scholar_id}", flush=True)
 
 # === 初始化代理和 UA ===
 pg = ProxyGenerator()
-pg.FreeProxies(repeat=1) # 使用免费代理池
-scholarly.use_proxy(pg)
+try:
+    # scholarly==1.7.11 (PyPI) 实际仍旧使用旧接口
+    pg.FreeProxies()  
+    scholarly.use_proxy(pg)
+    print("🌐 已启用免费代理池", flush=True)
+except Exception as e:
+    print("⚠️ 初始化免费代理失败，将直接访问（可能受限）:", e, flush=True)
 
 ua = UserAgent()
 ua_list = [
