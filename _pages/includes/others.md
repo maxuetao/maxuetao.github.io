@@ -9,8 +9,9 @@
 
 # 😊 Collaborators
 I’ve had the pleasure of working with：
-- [Jun Zhang](https://scholar.google.com.hk/citations?user=ebQ7lWYAAAAJ&hl=zh-CN), PhD student, School of Artificial Intelligence, Jilin University
-- [Yunfei Zhang](https://scholar.google.com.hk/citations?user=JnTai84AAAAJ&hl=zh-CN), PhD student, School of Computer Science and Technology, Xi’an Jiaotong University
+- [Jun Zhang](https://scholar.google.com.hk/citations?user=ebQ7lWYAAAAJ), PhD student, School of Artificial Intelligence, Jilin University
+- [Yunfei Zhang](https://scholar.google.com.hk/citations?user=JnTai84AAAAJ), PhD student, School of Computer Science and Technology, Xi’an Jiaotong University
 - [Feixue Shao](https://scholar.google.com.hk/citations?hl=zh-CN&user=2_ivACIAAAAJ), PhD student, College of Sciences, Taiyuan University of Technology
 - [Hangbei Cheng](https://chenghangbei0702.github.io/), master student, College of Computer Science and Technology, Taiyuan University of Technology
-- [Jia Shen](), master student, College of Computer Science and Technology, Taiyuan University of Technology
+- [Jia Shen](https://scholar.google.com.hk/citations?user=S0t8k88AAAAJ), master student, College of Computer Science and Technology, Taiyuan University of Technology
+
