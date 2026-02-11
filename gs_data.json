@@ -1,0 +1,164 @@
+{
+  "container_type": "Author",
+  "filled": [
+    "basics",
+    "publications",
+    "indices",
+    "counts"
+  ],
+  "scholar_id": "-ZFwXqAAAAAJ",
+  "source": "AUTHOR_PROFILE_PAGE",
+  "name": "Xuetao Ma",
+  "url_picture": "https://scholar.googleusercontent.com/citations?view_op=view_photo&user=-ZFwXqAAAAAJ&citpid=6",
+  "affiliation": "School of Artificial Intelligence, Beijing Normal University",
+  "organization": 3977209399600696998,
+  "interests": [
+    "Large Language Models",
+    "Computer Vision"
+  ],
+  "email_domain": "@mail.bnu.edu.cn",
+  "homepage": "https://maxuetao.github.io/",
+  "citedby": 55,
+  "publications": {
+    "-ZFwXqAAAAAJ:Y0pCki6q_DkC": {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Efficient face anti-spoofing via head-aware transformer based knowledge distillation with 5 MB model parameters",
+        "pub_year": "2024",
+        "citation": "Applied Soft Computing 166, 112237, 2024"
+      },
+      "filled": false,
+      "author_pub_id": "-ZFwXqAAAAAJ:Y0pCki6q_DkC",
+      "num_citations": 11,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=9459479870990849108",
+      "cites_id": [
+        "9459479870990849108"
+      ]
+    },
+    "-ZFwXqAAAAAJ:UebtZRa9Y70C": {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Problem-solving logic guided curriculum in-context learning for llms complex reasoning",
+        "pub_year": "2025",
+        "citation": "Findings of the Association for Computational Linguistics: ACL 2025, 8394-8412, 2025"
+      },
+      "filled": false,
+      "author_pub_id": "-ZFwXqAAAAAJ:UebtZRa9Y70C",
+      "num_citations": 10,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=11692683863733661370",
+      "cites_id": [
+        "11692683863733661370"
+      ]
+    },
+    "-ZFwXqAAAAAJ:9yKSN-GCB0IC": {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "An effective plant recognition method with feature recalibration of multiple pretrained CNN and layers",
+        "pub_year": "2023",
+        "citation": "Applied Sciences 13 (7), 4531, 2023"
+      },
+      "filled": false,
+      "author_pub_id": "-ZFwXqAAAAAJ:9yKSN-GCB0IC",
+      "num_citations": 8,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=6875318152906864745",
+      "cites_id": [
+        "6875318152906864745"
+      ]
+    },
+    "-ZFwXqAAAAAJ:YsMSGLbcyi4C": {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "GLMKD: Joint global and local mutual knowledge distillation for weakly supervised lesion segmentation in histopathology images",
+        "pub_year": "2025",
+        "citation": "Expert Systems with Applications 279, 127425, 2025"
+      },
+      "filled": false,
+      "author_pub_id": "-ZFwXqAAAAAJ:YsMSGLbcyi4C",
+      "num_citations": 6,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=3629662261064788795",
+      "cites_id": [
+        "3629662261064788795"
+      ]
+    },
+    "-ZFwXqAAAAAJ:Tyk-4Ss8FVUC": {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "ACAN: A plug-and-play Adaptive Center-Aligned Network for unsupervised domain adaptation",
+        "pub_year": "2024",
+        "citation": "Engineering Applications of Artificial Intelligence 137, 109132, 2024"
+      },
+      "filled": false,
+      "author_pub_id": "-ZFwXqAAAAAJ:Tyk-4Ss8FVUC",
+      "num_citations": 6,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=12426345326556765940",
+      "cites_id": [
+        "12426345326556765940"
+      ]
+    },
+    "-ZFwXqAAAAAJ:u-x6o8ySG0sC": {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Automatic No-Reference kidney tissue whole slide image quality assessment based on composite fusion models",
+        "pub_year": "2023",
+        "citation": "Biomedical Signal Processing and Control 82, 104547, 2023"
+      },
+      "filled": false,
+      "author_pub_id": "-ZFwXqAAAAAJ:u-x6o8ySG0sC",
+      "num_citations": 5,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=1338157965175758983",
+      "cites_id": [
+        "1338157965175758983"
+      ]
+    },
+    "-ZFwXqAAAAAJ:u5HHmVD_uO8C": {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Exploring masked image modeling for face anti-spoofing",
+        "pub_year": "2022",
+        "citation": "Chinese Conference on Pattern Recognition and Computer Vision (PRCV), 814-826, 2022"
+      },
+      "filled": false,
+      "author_pub_id": "-ZFwXqAAAAAJ:u5HHmVD_uO8C",
+      "num_citations": 5,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=15831502041017584217",
+      "cites_id": [
+        "15831502041017584217"
+      ]
+    },
+    "-ZFwXqAAAAAJ:qjMakFHDy7sC": {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "KDFAS: multi-stage knowledge distillation vision transformer for face anti-spoofing",
+        "pub_year": "2023",
+        "citation": "Chinese Conference on Pattern Recognition and Computer Vision (PRCV), 159-171, 2023"
+      },
+      "filled": false,
+      "author_pub_id": "-ZFwXqAAAAAJ:qjMakFHDy7sC",
+      "num_citations": 4,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=15425300781108068130",
+      "cites_id": [
+        "15425300781108068130"
+      ]
+    }
+  },
+  "citedby5y": 55,
+  "hindex": 5,
+  "hindex5y": 5,
+  "i10index": 2,
+  "i10index5y": 2,
+  "cites_per_year": {
+    "2023": 3,
+    "2024": 11,
+    "2025": 34,
+    "2026": 7
+  },
+  "updated": "2026-02-11 08:34:03.198095"
+}
