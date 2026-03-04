@@ -2,6 +2,7 @@
 
 <div style="max-height:200px; overflow-y:auto; padding-right:8px; border:1px solid #ddd; border-radius:8px; padding:10px; scrollbar-width:thin; scrollbar-color:#aaa #f1f1f1;">
   <ul style="margin:0; padding-left:20px;">
+    <li><strong>2026.03</strong>: 🎉 One paper was accepted by Pattern Recognition. Congrats to Hangbei!</li>  
     <li><strong>2025.12</strong>: 🎉 I'm honored to receive the Graduate Academic Innovation scholarship!</li>  
     <li><strong>2025.10</strong>: 🎉 I'm honored to receive the Graduate National Scholarship!!</li>
     <li><strong>2025.07</strong>: 🔥 We’ve released the <a href="https://smartedu.bnu.edu.cn/">师承万象（Muduo LLM）</a>, I was a core contributor; enjoy exploring it!</li>
@@ -14,6 +15,7 @@
     <li><strong>2023.05</strong>: 🎉 I have been admitted to the School of Artificial Intelligence at Beijing Normal University, and will begin my Ph.D studies under the supervision of Professor Hua Huang in September 2023.</li>
   </ul>
 </div>
+
 
 
 
