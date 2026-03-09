@@ -13,6 +13,7 @@
 - We propose a problem-solving logic guided curriculum in-context learning strategy that selects and orders examples by analyzing the problem-solving logic, effectively enhancing the reasoning performance and efficiency of LLMs.
 </div>
 </div>
+- Hangbei Cheng, Xiaorong Dong, Xueyu Liu, Jianan Zhang, **Xuetao Ma**, et. [FMaMIL: Synergistic Spatial-Frequency Mamba Multi-Instance Learning for Weakly Supervised Pathology Lesion Segmentation](), *Pattern Recognition*, 2025. ```SCI 1区``` ```Top``` ```CCF-B```
 
 - Hangbei Cheng, Xueyu Liu, Jun Zhang, Xiaorong Dong, **Xuetao Ma**, et. [GLMKD: Joint global and local mutual knowledge distillation for weakly supervised lesion segmentation in histopathology images](), *Expert Systems with Applications*, 2025. ```SCI 1区``` ```Top``` ```CCF-C```
 
@@ -25,6 +26,7 @@
 - Jun Zhang, Yunfei Zhang, Feixue Shao, **Xuetao Ma**, Daoxiang Zhou. [KDFAS: Multi-Stage Knowledge Distillation Vision Transformer for Face Anti-Spoofing](), *Chinese Conference on Pattern Recognition and Computer Vision (PRCV)*, 2023. ``CCF-C``
 
 - **Xuetao Ma**, Jun Zhang, Yunfei Zhang, Daoxiang Zhou. [Exploring masked image modeling for face anti-spoofing](), *Chinese Conference on Pattern Recognition and Computer Vision (PRCV)*, 2022. ``CCF-C``
+
 
 
 
