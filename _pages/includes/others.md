@@ -11,7 +11,7 @@
 I’ve had the pleasure of working with：
 - [Jun Zhang](https://scholar.google.com.hk/citations?user=ebQ7lWYAAAAJ), Ph.D student, School of Artificial Intelligence, Jilin University (JLU)
 - [Yunfei Zhang](https://scholar.google.com.hk/citations?user=JnTai84AAAAJ), Ph.D student, School of Computer Science and Technology, Xi’an Jiaotong University (XJTU)
-- [Feixue Shao](https://scholar.google.com.hk/citations?hl=zh-CN&user=2_ivACIAAAAJ), Ph.D student, College of Sciences, Taiyuan University of Technology (TYUT)
+- [Feixue Shao](https://scholar.google.com.hk/citations?hl=zh-CN&user=2_ivACIAAAAJ), Ph.D student, College of Mathematics, Taiyuan University of Technology (TYUT)
 - [Hangbei Cheng](https://chenghangbei0702.github.io/), PH.D student, School of Computer Science and Technology, Beijing Institute of Technology (BIT)
 - [Jia Shen](https://scholar.google.com.hk/citations?user=S0t8k88AAAAJ), PH.D student, School of Artificial Intelligence, Jilin University (JLU)
 
