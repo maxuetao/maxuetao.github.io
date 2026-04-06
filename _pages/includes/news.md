@@ -2,6 +2,7 @@
 
 <div style="max-height:200px; overflow-y:auto; padding-right:8px; border:1px solid #ddd; border-radius:8px; padding:10px; scrollbar-width:thin; scrollbar-color:#aaa #f1f1f1;">
   <ul style="margin:0; padding-left:20px;">
+    <li><strong>2026.04</strong>: 🎉 One paper was accepted by ACL! Congrats to Yujie!</li>
     <li><strong>2026.03</strong>: 🎉 One paper was accepted by Pattern Recognition. Congrats to Hangbei!</li>  
     <li><strong>2025.12</strong>: 🎉 I'm honored to receive the Graduate Academic Innovation scholarship!</li>  
     <li><strong>2025.10</strong>: 🎉 I'm honored to receive the Graduate National Scholarship!!</li>
