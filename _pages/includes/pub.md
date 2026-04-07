@@ -14,7 +14,7 @@
 </div>
 </div>
 
-- Yujie Hou, Mei Wang, Yaoyao Zhong, Ting Zhang, **Xuetao Ma**, Hua Huang. [SMART: Evaluating LLMs' Mathematical Reasoning via a Human Cognitive Process-Inspired Benchmark](), *Annual Meeting of the Association for Computational Linguistics (ACl)*, 2026. ```SCI 1区``` ```Top``` ```CCF-B```
+- Yujie Hou, Mei Wang, Yaoyao Zhong, Ting Zhang, **Xuetao Ma**, Hua Huang. [SMART: Evaluating LLMs' Mathematical Reasoning via a Human Cognitive Process-Inspired Benchmark](), *Annual Meeting of the Association for Computational Linguistics (ACL), Main Conference*, 2026. ```CCF-A```
 
 - Hangbei Cheng, Xiaorong Dong, Xueyu Liu, Jianan Zhang, **Xuetao Ma**, et. [FMaMIL: Synergistic Spatial-Frequency Mamba Multi-Instance Learning for Weakly Supervised Pathology Lesion Segmentation](), *Pattern Recognition*, 2025. ```SCI 1区``` ```Top``` ```CCF-B```
 
