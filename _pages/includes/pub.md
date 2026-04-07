@@ -14,6 +14,8 @@
 </div>
 </div>
 
+- Yujie Hou, Mei Wang, Yaoyao Zhong, Ting Zhang, **Xuetao Ma**, Hua Huang. [SMART: Evaluating LLMs' Mathematical Reasoning via a Human Cognitive Process-Inspired Benchmark](), *Annual Meeting of the Association for Computational Linguistics (ACl)*, 2026. ```SCI 1区``` ```Top``` ```CCF-B```
+
 - Hangbei Cheng, Xiaorong Dong, Xueyu Liu, Jianan Zhang, **Xuetao Ma**, et. [FMaMIL: Synergistic Spatial-Frequency Mamba Multi-Instance Learning for Weakly Supervised Pathology Lesion Segmentation](), *Pattern Recognition*, 2025. ```SCI 1区``` ```Top``` ```CCF-B```
 
 - Hangbei Cheng, Xueyu Liu, Jun Zhang, Xiaorong Dong, **Xuetao Ma**, et. [GLMKD: Joint global and local mutual knowledge distillation for weakly supervised lesion segmentation in histopathology images](), *Expert Systems with Applications*, 2025. ```SCI 1区``` ```Top``` ```CCF-C```
