@@ -14,21 +14,37 @@
 </div>
 </div>
 
-- Yujie Hou, Mei Wang, Yaoyao Zhong, Ting Zhang, **Xuetao Ma**, Hua Huang. [SMART: Evaluating LLMs' Mathematical Reasoning via a Human Cognitive Process-Inspired Benchmark](), *Annual Meeting of the Association for Computational Linguistics (ACL), Main Conference*, 2026. ```CCF-A```
+- [SMART: Evaluating LLMs' Mathematical Reasoning via a Human Cognitive Process-Inspired Benchmark]() \\
+Yujie Hou, Mei Wang, Yaoyao Zhong, Ting Zhang, **Xuetao Ma**, Hua Huang. \\
+*Annual Meeting of the Association for Computational Linguistics (ACL), Main Conference*, 2026. ```CCF-A```
 
-- Hangbei Cheng, Xiaorong Dong, Xueyu Liu, Jianan Zhang, **Xuetao Ma**, et. [FMaMIL: Synergistic Spatial-Frequency Mamba Multi-Instance Learning for Weakly Supervised Pathology Lesion Segmentation](), *Pattern Recognition*, 2025. ```SCI 1区``` ```Top``` ```CCF-B```
+- [FMaMIL: Synergistic Spatial-Frequency Mamba Multi-Instance Learning for Weakly Supervised Pathology Lesion Segmentation]() \\
+Hangbei Cheng, Xiaorong Dong, Jia Shen, Guangze Shi, Xueyu Liu, Jianan Zhang, Xuetao Ma, Mingqiang Wei, Liansheng Wang, Junxin Chen, Yongfei Wu. \\
+*Pattern Recognition*, 2025. ```SCI 1区``` ```Top``` ```CCF-B```
 
-- Hangbei Cheng, Xueyu Liu, Jun Zhang, Xiaorong Dong, **Xuetao Ma**, et. [GLMKD: Joint global and local mutual knowledge distillation for weakly supervised lesion segmentation in histopathology images](), *Expert Systems with Applications*, 2025. ```SCI 1区``` ```Top``` ```CCF-C```
+- [GLMKD: Joint global and local mutual knowledge distillation for weakly supervised lesion segmentation in histopathology images]() \\
+Hangbei Cheng, Xueyu Liu, Jun Zhang, Xiaorong Dong, **Xuetao Ma**, Yansong Zhang, Hao Meng, Xing Chen, Guanghui Yue, Yidi Li, Yongfei Wu \\
+*Expert Systems with Applications*, 2025. ```SCI 1区``` ```Top``` ```CCF-C```
 
-- Jun Zhang, Yunfei Zhang, Feixue Shao, **Xuetao Ma**, et. [Efficient Face Anti-Spoofing via Head-aware Transformer based Knowledge Distillation with 5MB model parameters](), *Applied Soft Computing*, 2024. ```SCI 1区``` ```Top```
+- [Efficient Face Anti-Spoofing via Head-aware Transformer based Knowledge Distillation with 5MB model parameters]() \\
+Jun Zhang, Yunfei Zhang, Feixue Shao, Xuetao Ma, Shu Feng, Yongfei Wu, Daoxiang Zhou \\
+*Applied Soft Computing*, 2024. ```SCI 1区``` ```Top```
 
-- Yunfei Zhang, Jun Zhang, Tonglu Li, Feixue Shao, **Xuetao Ma**, Yongfei Wu, Shu Feng, Daoxiang Zhou. [ACAN: A Plug-and-Play Adaptive Center-Aligned Network for Unsupervised Domain Adaptation](), *Engineering Applications of Artificial Intelligence*, 2024. ```SCI 1区```  ```Top``` ```CCF-C```
+- [ACAN: A Plug-and-Play Adaptive Center-Aligned Network for Unsupervised Domain Adaptation]() \\
+Yunfei Zhang, Jun Zhang, Tonglu Li, Feixue Shao, **Xuetao Ma**, Yongfei Wu, Shu Feng, Daoxiang Zhou.
+*Engineering Applications of Artificial Intelligence*, 2024. ```SCI 1区```  ```Top``` ```CCF-C```
 
-- Jiazi Ouyang, **Xuetao Ma**, Yongfei Wu, et. [Automatic No-Reference kidney tissue whole slide image quality assessment based on composite fusion models](), *Biomedical Signal Processing and Control*, 2023 ```SCI 2区```
+- [Automatic No-Reference kidney tissue whole slide image quality assessment based on composite fusion models]() \\
+Jiazi Ouyang, **Xuetao Ma**, Yongfei Wu, Ming Li, Chen Wang, Xiaoshuang Zhou, Petting Gao \\
+*Biomedical Signal Processing and Control*, 2023 ```SCI 2区```
 
-- Jun Zhang, Yunfei Zhang, Feixue Shao, **Xuetao Ma**, Daoxiang Zhou. [KDFAS: Multi-Stage Knowledge Distillation Vision Transformer for Face Anti-Spoofing](), *Chinese Conference on Pattern Recognition and Computer Vision (PRCV)*, 2023. ``CCF-C``
+- [KDFAS: Multi-Stage Knowledge Distillation Vision Transformer for Face Anti-Spoofing]()
+Jun Zhang, Yunfei Zhang, Feixue Shao, **Xuetao Ma**, Daoxiang Zhou. \\
+*Chinese Conference on Pattern Recognition and Computer Vision (PRCV)*, 2023. ``CCF-C``
 
-- **Xuetao Ma**, Jun Zhang, Yunfei Zhang, Daoxiang Zhou. [Exploring masked image modeling for face anti-spoofing](), *Chinese Conference on Pattern Recognition and Computer Vision (PRCV)*, 2022. ``CCF-C``
+- [Exploring masked image modeling for face anti-spoofing]() \\
+**Xuetao Ma**, Jun Zhang, Yunfei Zhang, Daoxiang Zhou \\
+*Chinese Conference on Pattern Recognition and Computer Vision (PRCV)*, 2022. ``CCF-C``
 
 
 
