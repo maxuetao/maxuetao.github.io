@@ -31,14 +31,14 @@ Jun Zhang, Yunfei Zhang, Feixue Shao, Xuetao Ma, Shu Feng, Yongfei Wu, Daoxiang 
 *Applied Soft Computing*, 2024. ```SCI 1区``` ```Top```
 
 - [ACAN: A Plug-and-Play Adaptive Center-Aligned Network for Unsupervised Domain Adaptation]() \\
-Yunfei Zhang, Jun Zhang, Tonglu Li, Feixue Shao, **Xuetao Ma**, Yongfei Wu, Shu Feng, Daoxiang Zhou.
+Yunfei Zhang, Jun Zhang, Tonglu Li, Feixue Shao, **Xuetao Ma**, Yongfei Wu, Shu Feng, Daoxiang Zhou. \\
 *Engineering Applications of Artificial Intelligence*, 2024. ```SCI 1区```  ```Top``` ```CCF-C```
 
 - [Automatic No-Reference kidney tissue whole slide image quality assessment based on composite fusion models]() \\
 Jiazi Ouyang, **Xuetao Ma**, Yongfei Wu, Ming Li, Chen Wang, Xiaoshuang Zhou, Petting Gao \\
 *Biomedical Signal Processing and Control*, 2023 ```SCI 2区```
 
-- [KDFAS: Multi-Stage Knowledge Distillation Vision Transformer for Face Anti-Spoofing]()
+- [KDFAS: Multi-Stage Knowledge Distillation Vision Transformer for Face Anti-Spoofing]() \\
 Jun Zhang, Yunfei Zhang, Feixue Shao, **Xuetao Ma**, Daoxiang Zhou. \\
 *Chinese Conference on Pattern Recognition and Computer Vision (PRCV)*, 2023. ``CCF-C``
 
