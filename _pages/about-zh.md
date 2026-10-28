@@ -2,7 +2,7 @@
 permalink: /zh/
 lang: zh-CN
 language_home: /zh/
-description: "北京师范大学人工智能学院博士研究生，研究方向为大语言模型、计算机视觉与深度学习。"
+description: "北京师范大学人工智能学院博士研究生，研究方向为智慧教育、大语言模型、计算机视觉与深度学习。"
 title: ""
 excerpt: ""
 author_profile: true
