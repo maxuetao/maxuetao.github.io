@@ -52,6 +52,9 @@ for attempt in range(3):
         print(f"✅ 抓取成功，用时 {elapsed:.1f} 秒", flush=True)
         break
 
+    except TimeoutError as e:
+        print(f"❌ {e}", flush=True)
+        break  # 全局超时不能被普通重试吞掉，否则后续请求可能无限等待。
     except Exception as e:
         print(f"⚠️ 第 {attempt+1} 次失败: {e}")
         traceback.print_exc()
