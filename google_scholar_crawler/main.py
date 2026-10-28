@@ -45,8 +45,9 @@ for attempt in range(3):
 
         # 手动控制超时，防止 scholarly 卡死
         start = time.time()
-        author = scholarly.search_author_id(scholar_id)
-        scholarly.fill(author, sections=['basics', 'indices', 'counts', 'publications'])
+        candidate = scholarly.search_author_id(scholar_id)
+        scholarly.fill(candidate, sections=['basics', 'indices', 'counts', 'publications'])
+        author = candidate
         elapsed = time.time() - start
         print(f"✅ 抓取成功，用时 {elapsed:.1f} 秒", flush=True)
         break
@@ -58,7 +59,7 @@ for attempt in range(3):
 
 if not author:
     print("❌ 三次尝试后仍未成功，跳过本次运行。")
-    sys.exit(0)  # 注意退出 0（不算错误）
+    sys.exit(1)  # 抓取失败时停止，避免发布不完整数据。
 
 # === 输出结果 ===
 author['updated'] = str(datetime.now())

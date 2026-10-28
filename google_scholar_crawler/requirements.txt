@@ -1,2 +1,4 @@
 scholarly==1.7.11
 fake-useragent>=2.2.0
+# scholarly 1.7.11 imports the BibtexParser 1.x module layout.
+bibtexparser==1.4.3
