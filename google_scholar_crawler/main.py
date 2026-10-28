@@ -4,19 +4,29 @@ import random
 import traceback
 import json
 from datetime import datetime
+import subprocess
+import sys
+import logging
+
+# Enforce the whole-run deadline outside scholarly: it catches request exceptions
+# internally, and SIGALRM is unavailable on Windows.
+if __name__ == '__main__' and '--worker' not in sys.argv:
+    try:
+        result = subprocess.run([sys.executable, '-u', os.path.abspath(__file__), '--worker'], timeout=180)
+        sys.exit(result.returncode)
+    except subprocess.TimeoutExpired:
+        print('ERROR: Scholar collection exceeded 180 seconds; previous data was not replaced.', flush=True)
+        sys.exit(124)
+
 from scholarly import scholarly
 from fake_useragent import UserAgent
-import signal
-import sys
 
 print("📘 程序已启动", flush=True)
 
-# === 超时机制（Linux 层） ===
-def handler(signum, frame):
-    raise TimeoutError("⏰ 程序运行超时，可能被 Google Scholar 拦截。")
-
-signal.signal(signal.SIGALRM, handler)
-signal.alarm(180)  # 整个脚本最长 3 分钟
+logging.basicConfig(level=logging.INFO, format='%(asctime)s %(name)s: %(message)s')
+scholarly.set_logger(True)
+scholarly.set_timeout(15)
+scholarly.set_retries(2)
 
 # === 环境变量 ===
 scholar_id = os.environ.get("GOOGLE_SCHOLAR_ID")
@@ -45,7 +55,9 @@ for attempt in range(3):
 
         # 手动控制超时，防止 scholarly 卡死
         start = time.time()
+        print('Stage: retrieving author profile', flush=True)
         candidate = scholarly.search_author_id(scholar_id)
+        print('Stage: retrieving citation counts and publications', flush=True)
         scholarly.fill(candidate, sections=['basics', 'indices', 'counts', 'publications'])
         author = candidate
         elapsed = time.time() - start
@@ -70,7 +82,7 @@ author['publications'] = {v['author_pub_id']: v for v in author['publications']}
 
 os.makedirs('results', exist_ok=True)
 
-with open('results/gs_data.json', 'w') as f:
+with open('results/gs_data.json', 'w', encoding='utf-8') as f:
     json.dump(author, f, ensure_ascii=False, indent=2)
 print("💾 已保存结果到 results/gs_data.json")
 
@@ -79,9 +91,8 @@ shieldio_data = {
     "label": "citations",
     "message": f"{author.get('citedby', 'N/A')}",
 }
-with open('results/gs_data_shieldsio.json', 'w') as f:
+with open('results/gs_data_shieldsio.json', 'w', encoding='utf-8') as f:
     json.dump(shieldio_data, f, ensure_ascii=False, indent=2)
 print("✅ 已生成 Shields.io JSON 文件")
 
-signal.alarm(0)
 print("🎉 程序运行完成", flush=True)
