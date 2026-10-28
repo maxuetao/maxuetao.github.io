@@ -27,7 +27,7 @@ jobs:
     - name: Run
       run: |
         cd ./google_scholar_crawler
-        python3 main.py
+        timeout --kill-after=10s 180s python3 -u main.py
         test -s results/gs_data.json
         test -s results/gs_data_shieldsio.json
         cd ./results
