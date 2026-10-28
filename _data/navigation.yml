@@ -20,3 +20,17 @@ main:
 
   - title: "Internships"
     url: "/#-internships"
+
+zh:
+  - title: "关于我"
+    url: "/zh/#about-me"
+  - title: "最新动态"
+    url: "/zh/#-news"
+  - title: "学术论文"
+    url: "/zh/#-publications"
+  - title: "荣誉与奖励"
+    url: "/zh/#-honors-and-awards"
+  - title: "教育经历"
+    url: "/zh/#-educations"
+  - title: "实习经历"
+    url: "/zh/#-internships"

@@ -62,3 +62,18 @@
 }
 
 
+
+/* Keep language links visible beside the existing responsive navigation. */
+.masthead__menu {
+  display: flex;
+  align-items: center;
+  gap: .75em;
+  .greedy-nav { flex: 1; min-width: 0; }
+}
+.language-switch {
+  flex-shrink: 0;
+  white-space: nowrap;
+  font-size: .8em;
+  a { padding: .4em .15em; }
+  a[aria-current="page"] { font-weight: bold; border-bottom: 2px solid currentColor; }
+}

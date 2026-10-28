@@ -1,16 +1,31 @@
+{% assign is_zh = false %}
+{% if page.lang == 'zh-CN' %}{% assign is_zh = true %}{% endif %}
+{% assign home = page.language_home | default: '/' %}
+{% assign navigation = site.data.navigation.main %}
+{% if is_zh %}{% assign navigation = site.data.navigation.zh %}{% endif %}
 <div class="masthead">
   <div class="masthead__inner-wrap">
     <div class="masthead__menu">
-      <nav id="site-nav" class="greedy-nav">
-        <button><div class="navicon"></div></button>
+      <nav id="site-nav" class="greedy-nav" aria-label="{% if is_zh %}主导航{% else %}Main navigation{% endif %}">
+        <button aria-label="{% if is_zh %}更多导航{% else %}More navigation{% endif %}"><div class="navicon"></div></button>
         <ul class="visible-links">
-          <li class="masthead__menu-item masthead__menu-item--lg masthead__menu-home-item"><a href="#about-me">Homepage</a></li>
-          {% for link in site.data.navigation.main %}
-            <li class="masthead__menu-item"><a href="{{ domain }}{{ link.url }}">{{ link.title }}</a></li>
+          <li class="masthead__menu-item masthead__menu-item--lg masthead__menu-home-item"><a target="_self" href="{{ home | relative_url }}#about-me">{% if is_zh %}主页{% else %}Homepage{% endif %}</a></li>
+          {% for link in navigation %}
+            <li class="masthead__menu-item"><a target="_self" href="{{ link.url | relative_url }}">{{ link.title }}</a></li>
           {% endfor %}
         </ul>
         <ul class="hidden-links hidden"></ul>
       </nav>
+      <div class="language-switch" role="navigation" aria-label="{% if is_zh %}语言切换{% else %}Language switch{% endif %}">
+        <a href="{{ '/' | relative_url }}" target="_self" lang="en" hreflang="en"{% unless is_zh %} aria-current="page"{% endunless %}>English</a><span aria-hidden="true"> / </span><a href="{{ '/zh/' | relative_url }}" target="_self" lang="zh-CN" hreflang="zh-CN"{% if is_zh %} aria-current="page"{% endif %}>中文</a>
+      </div>
     </div>
   </div>
 </div>
+<script>
+  document.querySelectorAll('.language-switch a').forEach(function (link) {
+    link.addEventListener('click', function () {
+      link.hash = window.location.hash;
+    });
+  });
+</script>
