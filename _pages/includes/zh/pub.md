@@ -1,51 +1,51 @@
 
+# 📝 学术论文
 {: #-publications}
-# 📝 学术论文 
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ACL 2025</div><img src="{{ '/images/cicl.png' | relative_url }}" alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-面向大语言模型复杂推理的解题逻辑引导课程式上下文学习 \\
+Problem-Solving Logic Guided Curriculum In-Context Learning for LLMs Complex Reasoning \\
 **Xuetao Ma**, Wenbin Jiang, Hua Huang. \\
-*国际计算语言学协会年会（ACL）*, 2025.
+*Annual Meeting of the Association for Computational Linguistics (ACL)*, 2025.
 
 <!-- [**Project**](https://speechresearch.github.io/fastspeech/) <strong><span class='show_paper_citations' data='4FA6C0AAAAAJ:qjMakFHDy7sC'></span></strong> -->
 
-- 我们提出了一种由解题逻辑引导的课程式上下文学习策略，通过分析解题逻辑选择示例并安排顺序，有效提升大语言模型的推理性能与效率。
+- We propose a problem-solving logic guided curriculum in-context learning strategy that selects and orders examples by analyzing the problem-solving logic, effectively enhancing the reasoning performance and efficiency of LLMs.
 </div>
 </div>
 
-- SMART：基于人类认知过程启发的基准评估大语言模型的数学推理能力 \\
+- SMART: Evaluating LLMs' Mathematical Reasoning via a Human Cognitive Process-Inspired Benchmark \\
 Yujie Hou, Mei Wang, Yaoyao Zhong, Ting Zhang, **Xuetao Ma**, Hua Huang. \\
-*国际计算语言学协会年会（ACL）主会*, 2026. ```CCF-A```
+*Annual Meeting of the Association for Computational Linguistics (ACL), Main Conference*, 2026. ```CCF-A```
 
-- FMaMIL：协同空间与频率 Mamba 多实例学习，用于弱监督病理病灶分割 \\
+- FMaMIL: Synergistic Spatial-Frequency Mamba Multi-Instance Learning for Weakly Supervised Pathology Lesion Segmentation \\
 Hangbei Cheng, Xiaorong Dong, Jia Shen, Guangze Shi, Xueyu Liu, Jianan Zhang, Xuetao Ma, Mingqiang Wei, Liansheng Wang, Junxin Chen, Yongfei Wu. \\
-*模式识别（Pattern Recognition）*, 2025. ```SCI 1区``` ```顶级期刊``` ```CCF-B```
+*Pattern Recognition*, 2025. ```SCI 1区``` ```Top``` ```CCF-B```
 
-- GLMKD：结合全局与局部互知识蒸馏的组织病理图像弱监督病灶分割 \\
+- GLMKD: Joint global and local mutual knowledge distillation for weakly supervised lesion segmentation in histopathology images \\
 Hangbei Cheng, Xueyu Liu, Jun Zhang, Xiaorong Dong, **Xuetao Ma**, Yansong Zhang, Hao Meng, Xing Chen, Guanghui Yue, Yidi Li, Yongfei Wu \\
-*专家系统与应用（Expert Systems with Applications）*, 2025. ```SCI 1区``` ```顶级期刊``` ```CCF-C```
+*Expert Systems with Applications*, 2025. ```SCI 1区``` ```Top``` ```CCF-C```
 
-- 通过头部感知 Transformer 知识蒸馏实现高效人脸活体检测，模型参数仅 5 MB \\
+- Efficient Face Anti-Spoofing via Head-aware Transformer based Knowledge Distillation with 5MB model parameters \\
 Jun Zhang, Yunfei Zhang, Feixue Shao, Xuetao Ma, Shu Feng, Yongfei Wu, Daoxiang Zhou \\
-*应用软计算（Applied Soft Computing）*, 2024. ```SCI 1区``` ```顶级期刊```
+*Applied Soft Computing*, 2024. ```SCI 1区``` ```Top```
 
-- ACAN：用于无监督域适应的即插即用自适应中心对齐网络 \\
+- ACAN: A Plug-and-Play Adaptive Center-Aligned Network for Unsupervised Domain Adaptation \\
 Yunfei Zhang, Jun Zhang, Tonglu Li, Feixue Shao, **Xuetao Ma**, Yongfei Wu, Shu Feng, Daoxiang Zhou. \\
-*人工智能工程应用（Engineering Applications of Artificial Intelligence）*, 2024. ```SCI 1区```  ```顶级期刊``` ```CCF-C```
+*Engineering Applications of Artificial Intelligence*, 2024. ```SCI 1区```  ```Top``` ```CCF-C```
 
-- 基于复合融合模型的肾脏组织全切片图像自动无参考质量评估 \\
+- Automatic No-Reference kidney tissue whole slide image quality assessment based on composite fusion models \\
 Jiazi Ouyang, **Xuetao Ma**, Yongfei Wu, Ming Li, Chen Wang, Xiaoshuang Zhou, Petting Gao \\
-*生物医学信号处理与控制（Biomedical Signal Processing and Control）*, 2023 ```SCI 2区```
+*Biomedical Signal Processing and Control*, 2023 ```SCI 2区```
 
-- KDFAS：用于人脸活体检测的多阶段知识蒸馏视觉 Transformer \\
+- KDFAS: Multi-Stage Knowledge Distillation Vision Transformer for Face Anti-Spoofing \\
 Jun Zhang, Yunfei Zhang, Feixue Shao, **Xuetao Ma**, Daoxiang Zhou. \\
-*中国模式识别与计算机视觉大会（PRCV）*, 2023. ``CCF-C``
+*Chinese Conference on Pattern Recognition and Computer Vision (PRCV)*, 2023. ``CCF-C``
 
-- 探索用于人脸活体检测的掩码图像建模 \\
+- Exploring masked image modeling for face anti-spoofing \\
 **Xuetao Ma**, Jun Zhang, Yunfei Zhang, Daoxiang Zhou \\
-*中国模式识别与计算机视觉大会（PRCV）*, 2022. ``CCF-C``
+*Chinese Conference on Pattern Recognition and Computer Vision (PRCV)*, 2022. ``CCF-C``
 
 
 
